@@ -1,7 +1,7 @@
 import React from 'react'
 import Aux from '../../hoc/Auxiliary'
 
-const layout = () => (
+const layout = (props) => (
     <Aux>
         <div>Toolbar, Sidedrawer, Backdrop</div>
         <main>
