@@ -1,9 +1,9 @@
 import React, {Component} from 'react'
-import Aux from '../../../hoc/Auxiliary'
+import Aux from '../../../hoc/Auxiliary/Auxiliary'
 import Button from '../../UI/Button/Button'
 
 class OrderSummary extends Component {
-
+    // * this could be a functional component instead of a class component
     render() {
         const ingredientSummary = Object.keys(this.props.ingredients)
             .map(igKey => {
