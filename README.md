@@ -8,6 +8,8 @@ A responsive web app built with React demostrating
 * A deep dive into the internals of React and advanced component features
 * How to access Http content from within React apps (AJAX)
 * Redux
+* React Routing
+* Animations
 * Forms and form validation in React apps
 * Authentication
 * Unit testing
